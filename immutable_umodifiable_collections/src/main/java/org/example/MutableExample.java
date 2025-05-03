@@ -15,3 +15,6 @@ public class MutableExample {
         System.out.println("After modification: " + mutableList);
     }
 }
+// Output:
+//Before modification: [Apple, Banana]
+//After modification: [Apple, Cherry]
